@@ -8,3 +8,7 @@ belajar membuat qrcode, scan qrcode pada pengaplikasian di react menggunakan typ
 2. qrcode
 3. react-qr-code
 4. react=ts
+
+### Deployed:
+
+http:/soerjo.github.io/react-scan-qrcode
